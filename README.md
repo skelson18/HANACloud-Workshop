@@ -1,3 +1,1 @@
 # HANACloud-Workshop
-# HANACloud-Workshop
-
